@@ -1,18 +1,5 @@
-<div style="background: linear-gradient(90deg, #64b5f6, #1e88e5); padding: 40px 20px; border-radius: 15px; text-align: center; animation: fadeIn 2s ease-in-out;">
-  <h1 style="color: white; font-size: 48px; margin-bottom: 10px;">Python Notebook to Interactive HTML Report</h1>
-  <h3 style="color: #ECEFF1; font-weight: normal; font-size: 20px;">
-    Generate a Single-File, Shareable HTML Report from Your Python Data Analysis Notebook
-  </h3>
-</div>
-
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
-
-<br>
+# Python Notebook to Interactive HTML Report
+### Generate a Single-File, Shareable HTML Report from Your Python Data Analysis Notebook
 
 ## Overview
 
